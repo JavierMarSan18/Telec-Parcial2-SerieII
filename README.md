@@ -20,7 +20,7 @@ Patch cords Cat6 (6): Q156
 
 Canaletas/fijaciones (aprox. 20 tramos): Q468
 
-Rack/gabinete 12U (2): Q1,560 3,120
+Rack/gabinete 12U (2): Q3,120
 
 Subtotal pasivos: Q5,226
 
